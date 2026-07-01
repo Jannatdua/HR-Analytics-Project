@@ -141,7 +141,7 @@ HR-Analytics-End-to-End-Project/
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/Jannatdua/HR-Analytics-Project.git
 ```
 
 ### 2. Install Required Libraries
